@@ -11,6 +11,7 @@
 CNAME
 README.md
 *.yangfeiyue.us.kg
+*.fu.yangfeiyue.us.kg
 
 
 # Ignore CNAME file#
@@ -72,3 +73,4 @@ fu.yangfeiyue.us.kg
 CNAME
 README.md
 fu.yangfeiyue.us.kg
+*.fu.yangfeiyue.us.kg
