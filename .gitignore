@@ -9,7 +9,7 @@
 *.o
 *.so
 CNAME
-README.md
+.md
 *.yangfeiyue.us.kg
 
 
@@ -19,7 +19,6 @@ CNAME
 README.md
 *.fu.yangfeiyue.us.kg
 *.yangfeiyue.us.kg
-*.CNAME
 
 
 # Packages #
