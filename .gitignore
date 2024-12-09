@@ -11,14 +11,16 @@
 CNAME
 .md
 *.yangfeiyue.us.kg
+fu.yangfeiyue.us.kg
 
 
 # Ignore CNAME file#
 ###################
 CNAME
-README.md
+.md
 *.fu.yangfeiyue.us.kg
 *.yangfeiyue.us.kg
+fu.yangfeiyue.us.kg
 
 
 # Packages #
@@ -36,7 +38,7 @@ README.md
 *.tar
 *.zip
 CNAME
-README.md
+.md
 yangfeiyue.us.kg
 
 # Logs and databases #
@@ -47,7 +49,7 @@ yangfeiyue.us.kg
 *.sql
 *.sqlite
 CNAME
-README.md
+.md
 yangfeiyue.us.kg
 
 # OS generated files #
@@ -62,7 +64,7 @@ yangfeiyue.us.kg
 ehthumbs.db
 Thumbs.db
 CNAME
-README.md
+.md
 fu.yangfeiyue.us.kg
 
 # text #
@@ -70,5 +72,5 @@ fu.yangfeiyue.us.kg
 *.txt
 *.md
 CNAME
-README.md
+.md
 fu.yangfeiyue.us.kg
