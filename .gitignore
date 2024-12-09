@@ -11,7 +11,6 @@
 CNAME
 README.md
 *.yangfeiyue.us.kg
-*.fu.yangfeiyue.us.kg
 
 
 # Ignore CNAME file#
@@ -20,6 +19,7 @@ CNAME
 README.md
 *.fu.yangfeiyue.us.kg
 *.yangfeiyue.us.kg
+*.CNAME
 
 
 # Packages #
@@ -57,6 +57,7 @@ yangfeiyue.us.kg
 *.md
 .DS_Store
 .DS_Store?
+._*
 .Spotlight-V100
 .Trashes
 ehthumbs.db
@@ -72,4 +73,3 @@ fu.yangfeiyue.us.kg
 CNAME
 README.md
 fu.yangfeiyue.us.kg
-*.fu.yangfeiyue.us.kg
